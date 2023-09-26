@@ -1,4 +1,7 @@
 # Bulls and Cows
+![bulls-and-cows](https://github.com/idanc7596/Bulls_and_Cows/assets/48062272/ebaea470-6801-4ebd-b9f9-044f81ed244d)
+
+
 ## Rules
 1. The program generates a random number, and the player tries to guess it.
 2. The number to be guessed is a 4-digit number, each digit at most once.
