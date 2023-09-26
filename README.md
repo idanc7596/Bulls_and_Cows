@@ -6,8 +6,8 @@
 1. The program generates a random number, and the player tries to guess it.
 2. The number to be guessed is a 4-digit number, each digit at most once.
 3. For every guess that the player makes, we display two values: bulls and cows. 
-1 bull means the guess and the target number have 1 digit in common and in the correct position.
-1 cow means the guess and the target number have 1 digit in common but not in the correct position.
+1 bull means the guess and the target numbers have 1 digit in common and in the correct position.
+1 cow means the guess and the target numbers have 1 digit in common but not in the correct position.
 For example, if the number to guess is 1234, guessing 4321 will give 0 bulls and 4 cows. 3241 will give 1 bull and 3 cows.
 
 
